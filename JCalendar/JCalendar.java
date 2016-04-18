@@ -16,8 +16,8 @@ import javax.swing.SwingConstants;
 
 /**
  * Represents a Graphical Calendar using Java Swing Framework.
- * @author Alessandro Sanino
- * @author Riccardo Krauter
+ * @author Alessandro Sanino <alessandro.sanino@edu.unito.it> OR <saninoale@gmail.com>
+ * @author Riccardo Krauter <riccardo.krauter@edu.unito.it>
  * @version 1.0
  */
 public class JCalendar extends JPanel {
