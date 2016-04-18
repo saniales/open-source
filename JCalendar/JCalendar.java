@@ -68,7 +68,13 @@ public class JCalendar extends JPanel {
             this.value = value;
             this.add(new JLabel(Integer.toString(this.value.get(Calendar.DAY_OF_MONTH))));
             //you can add your custom class which uses method select() from JCalendar class.
-            this.addMouseListener(new DateChangeListener(this));
+            this.addMouseListener(new MouseAdapter() {
+                @Override
+                public void mousePressed(MouseEvent e) {
+                    JCalendarCell sender = (JCalendarCell)e.getSource();
+                    (sender).owner.select(sender);
+                }
+            });
             this.setStyle();
         }
 
