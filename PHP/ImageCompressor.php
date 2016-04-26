@@ -22,7 +22,7 @@
  * @return The compressed image file. 
  * @example usage : compress("Image1.png", 0.7, "ImageCompressed.jpg");
  */
-function compress($source, $quality = 0.7, $destination = $source) {
+function compress_image($source, $quality = 0.7, $destination = $source) {
     $info = getimagesize($source);
     if ($info['mime'] == 'image/jpeg') {
         $image = imagecreatefromjpeg($source);
