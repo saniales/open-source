@@ -10,7 +10,6 @@ Repository containing all open source software (libraries and programs) develope
 
 1. JCalendar - A ready-to-use Java Swing Calendar made using Java Calendar Class <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** Developed By : A. Sanino & R. Krauter **
-<br><br>
-
+<br>
 2. Nerd Or Dungeons Project - A link to my other repository of Nerd Or Dungeon XNA Game Project <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** Developed By : A. Sanino ** <br>
