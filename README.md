@@ -1,7 +1,7 @@
 # Please support me by paying my coffees and pizzas, thank you very much :) :) :) :) :)
-I accept:
-PayPal   : https://www.paypal.me/AlessandroSanino
-Bitcoins : 1E88Ha1LdnjbYuFaMtC3xSSJM3icBA4UHp 
+I accept: <br>
+PayPal   : https://www.paypal.me/AlessandroSanino <br>
+Bitcoins : 1E88Ha1LdnjbYuFaMtC3xSSJM3icBA4UHp  <br>
 
 # open-source
 Repository containing all open source software (libraries and programs) developed by me.
