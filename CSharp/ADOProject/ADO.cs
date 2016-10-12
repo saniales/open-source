@@ -242,7 +242,7 @@ namespace ADONamespace
             }
             return ret;
         }
-c
+
         ///<summary>
         ///Esegue una NonQuery avente Codice Specificato (Inserimento, Modifica, Cancellazione di Record)
         ///</summary>
